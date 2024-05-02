@@ -11,6 +11,7 @@
   "author": "Priyam Gautam",
   "license": "ISC",
   "dependencies": {
+    "@swc/helpers": "latest",
     "@tailwindcss/line-clamp": "^0.4.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -20,6 +21,7 @@
     "jest": "^27.5.1",
     "parcel": "^2.10.0",
     "postcss": "^8.4.33",
+    "process": "^0.11.10",
     "tailwindcss": "^3.4.1"
   },
   "browserslist": [
