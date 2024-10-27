@@ -3,7 +3,7 @@ import '../styles/style.css';
 import abhishekImg from '../Assets/apniLibAssets/abhishekmishraImg.jpg';
 import ajayImg from '../Assets/apniLibAssets/ajaysatnamiImg.jpg';
 import akarshImg from '../Assets/apniLibAssets/akarshshuklaImg.jpg';
-import anjliImg from '../Assets/apniLibAssets/anjlipayashuImg.jpg';
+import anjliPayashiImg from '../Assets/apniLibAssets/anjliPayashiImg.jpg';
 import ankitImg from '../Assets/apniLibAssets/ankitguptaImg.jpg';
 import prabhakrImg from '../Assets/apniLibAssets/prabhakarImg.jpg';
 import sagarImg from '../Assets/apniLibAssets/sagarSinghImg.jpg';
@@ -37,7 +37,7 @@ const successStories = [
     id: 104,
     name: 'Anjli Payashi',
     designation: 'TISS Mumbai',
-    imageUrl: anjliImg,
+    imageUrl: anjliPayashiImg,
   },
   {
     id: 105,
